@@ -1,1 +1,3 @@
 # Smart-Automated-Checkout-System-with-Deep-Learning-and-Facial-Recognition-Security
+
+Le projet **Smart Automated Checkout System with Deep Learning and Facial Recognition Security** est une solution innovante qui vise à automatiser le processus de paiement dans les magasins. Ce système utilise l'apprentissage profond (Deep Learning) pour identifier les produits et la reconnaissance faciale pour sécuriser les transactions. Grâce à cette technologie, les clients peuvent effectuer des achats rapidement sans avoir besoin de passer par une caisse traditionnelle, améliorant ainsi l'expérience utilisateur tout en renforçant la sécurité des paiements.
